@@ -1,7 +1,5 @@
 # Semafaro
 
-
-
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Semafaro/blob/master/licence) 
 
 ## Link de acesso a página
@@ -20,7 +18,7 @@ Mini Projeto que mostra um senáfaro, onde o usuário ao clicar nas cores autát
 - CSS3
 - Java Script
 
-# Deploy
+## Deploy
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" alt="js" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" />
